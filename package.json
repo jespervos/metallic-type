@@ -51,7 +51,7 @@
     "@babel/polyfill": "^7.6.0",
     "core-js": "^3.2.1",
     "dat.gui": "^0.7.6",
-    "three": "^0.109.0",
+    "three": "^0.125.0",
     "three-bmfont-text": "^2.3.0"
   }
 }
